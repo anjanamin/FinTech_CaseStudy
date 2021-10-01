@@ -1,5 +1,5 @@
 # FinTech Case Study
-![fintech](fintech.jpg)
+![fintech](C:\Users\anjan\OneDrive\desktop\FinTech\FinTech_CaseStudy\images\fintech.jpg)
 
 ## Overview and Origin
 
