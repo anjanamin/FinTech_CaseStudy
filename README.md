@@ -1,2 +1,2 @@
 # FinTech_CaseStudy
-Homework 1 - Case Study on FinTech company Stripe
+Homework 1 - FinTech Case Study
