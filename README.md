@@ -3,7 +3,8 @@
 
 ## Overview and Origin
 
-* Name of company
+**Company:** Stripe
+![logo](stripe-logo.png)
 
 * When was the company incorporated?
 
