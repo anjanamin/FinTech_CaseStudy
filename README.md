@@ -14,12 +14,17 @@
 **Company (or project) come about?:** The idea of the company came about when brothers John and Patrick were trying to figure out why making payments on the web was so diffifcult. Their goal was to make it as simple as possible. 
 
 **Funding:** After coming up with the idea to simplify web payments, they were able to receive funding in 2011 for $2 million to get started. They have received over $2.2 billion over the past 12 years.
-![funding](funding.png)
+
+---
 
 
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+
+    - Stripe is trying to make payments on the web as simple as possible. 
+
+
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
