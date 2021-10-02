@@ -26,21 +26,28 @@
 
 * Stripe's intended customers are anyone who needs to make or receive a payment. Their target market is small startups to giant corporations in need of payment services. Stripe was one of the first companies to offer digital first payment processing. They have kept a positive reputation in the market and is a top choice for most developers. Having large market share compared to competitors, it makes it an easier choice for startups to choose a reputable company.
 
-* According to Stackshare, Stripe is using; Ruby, programming language; NSQ, messaging platform; Google Analytics along with many others for research.
+* According to Stackshare, these are some of the technologies Stripe is using:
+    - Ruby - programming language
+    - NSQ - messaging platform
+    - Apache Impala - real-time query
+    - Google Analytics along with many others for research
+    - Mailgun - email service
+    - CircleCI
+    - PagerDuty
 
 ## Landscape:
 
 
 * Stripe would fall under the Payments/Billing domain in FinTech. 
 
-* Payments/Billing domain in Finance have been one of the most affected by technology in the past 10 years. Starting with the rise of smartphones about 10 years ago we have moved from physical payments with cash or credit cards to mobile payments with our phone.
+* Payments/Billing domain in Finance have been one of the most affected by technology in the past 10 years. Starting with the rise of smartphones about 10 years ago we have moved from physical payments with cash or credit cards to digital payments with our phones.
 
 * Some other companies in this domain are PayPal, Square, WePay and Klarna.
 
 
 ## Results
 
-* The impact of stripe has been enormous. With commerce shifting online, stripe was there to facilitate payments. Also the pandemic had a huge impact on e-commerce. 
+* The impact of Stripe has been enormous. With commerce shifting online, Stripe was there to facilitate payments. Also, the pandemic had a huge impact on e-commerce. 
 
 * There are a few different ways to measure success for a company like Stripe. We can look at overall market share and customers to start. They have about 12% market share for all online payments. Besides market share, Stripe has over 118,000 companies as customers. 
 
